@@ -16547,6 +16547,7 @@ webpackJsonp([0],[
 	  return _react2.default.createElement(
 	    _reactRouter.Route,
 	    { path: '/', component: _CoreLayout2.default },
+	    _react2.default.createElement(_reactRouter.Route, { path: '/hello_react_redux_starter_kit/index.html', component: _HomeView2.default }),
 	    _react2.default.createElement(_reactRouter.IndexRoute, { component: _HomeView2.default })
 	  );
 	};
@@ -37435,4 +37436,4 @@ webpackJsonp([0],[
 
 /***/ }
 ]);
-//# sourceMappingURL=app.08e3faee61f5783e7dc1.js.map
+//# sourceMappingURL=app.7f1cebda4a65ce8b12a8.js.map
